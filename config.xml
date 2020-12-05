@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.testapp.satya" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Input Submit</name>
+    <name>My Testing App</name>
     <description>
-        This android App only submit the input.
+        This android App only submit the input Data.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Kotai Team
